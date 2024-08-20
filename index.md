@@ -17,7 +17,7 @@ Welcome to the website for ECE 335, Discrete Mathematics with Applications, at Y
 * [Syllabus](syllabus.html)
 
 ## News
-* **Aug 26** &mdash; Welcome back!
+* **Aug 27** &mdash; Welcome back!
 * **Sept 10** - [Assignment 1](assign/assign01.html) Due. Submit to Canvas by **Sept 12**
 
 

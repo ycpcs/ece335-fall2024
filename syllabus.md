@@ -7,13 +7,14 @@ title: "Syllabus"
 
 <div id="subtitle">Discrete Mathematics with Applications</div>
 
-**Summer 2024**
+**Fall 2024**
 
 Instructor: 
 - 101 - Dr. David Babcock, <dbabcock@ycp.edu>
 
-Office Hours:
-- **Dr. Babcock** - KEC 117A: MW 2:30-3:30PM, or by appointment
+> Section(s) | Instructor | Office hours
+> ---------- | ---------- | ------------
+> 101 (11:00AM-12:15PM KEC128) | David Babcock <dbabcock@ycp.edu> KEC 117 | M 11am-1pm, T 9:30-11am, W 1-2pm, R 9:30-11am, or by appointment
 
 Course Description
 ------------------

@@ -14,7 +14,7 @@ Instructor(s):
 
 > Section(s) | Instructor | Office hours
 > ---------- | ---------- | ------------
-> 101 (11:00AM-12:15PM KEC128) | Kala Meah <kmeah@ycp.edu> KEC 103 | MWF 11am-13pm, T 1-3pm, or by appointment
+> 101 (11:00AM-12:15PM KEC128) | Kala Meah <kmeah@ycp.edu> KEC 103 | MWF 11am-12pm, T 1-3pm, or by appointment
 
 ### Course Description
 
